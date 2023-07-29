@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MoonThemeSwitcher"
 include(":app")
- 
+include(":moonSwitcher")
